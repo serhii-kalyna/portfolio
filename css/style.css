@@ -2,6 +2,15 @@
 /*font-family: 'Ubuntu', sans-serif;*/
 /*font-family: 'Bebas Neue', arial;*/
 
+@font-face {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Bebas Neue'), local('BebasNeue-Regular'),
+        url(http://allfont.ru/cache/fonts/bebas-neue_4aa1c24c15344cca77f8ad1e69c82275.woff) format('woff'),
+        url(http://allfont.ru/cache/fonts/bebas-neue_4aa1c24c15344cca77f8ad1e69c82275.ttf) format('truetype');
+}
+
 #container{
 	width: 1280px;
 	height: 2305px;
