@@ -139,7 +139,7 @@
 	position: absolute;
 	margin-top: 189px;
 	margin-left: 512px;
-	font: 80px 'Bebas Neue';
+	font: 80px 'BebasNeueRegular';
 	color: #cccece;
 }
 
@@ -161,7 +161,7 @@
 #block-welcome h2{
 	text-align: center;
 	margin-top: 30px;
-	font: 50px 'Bebas Neue';
+	font: 50px 'BebasNeueRegular';
 	color: #2190c1;
 	margin-bottom: 0;
 }
@@ -179,7 +179,7 @@
 #block-welcome h1{
 	margin-top: 24px;
 	text-align: center;
-	font: 96px 'Bebas Neue';
+	font: 96px 'BebasNeueRegular';
 	color: #515862;
 	margin-bottom: 0;
 }
@@ -252,7 +252,7 @@
 #block-team h2{
 	text-align: center;
 	margin-top: 40px;
-	font: 50px 'Bebas Neue';
+	font: 50px 'BebasNeueRegular';
 	color: #2190c1;
 	margin-bottom: 0;
 }
@@ -324,7 +324,7 @@
 #block-team .box4 h3{
 	margin-top: -28px;
 	text-align: center;
-	font: 32px 'Bebas Neue';
+	font: 32px 'BebasNeueRegular';
 	color: #2190c1;
 } 
 
@@ -417,7 +417,7 @@
 
 #footer h4{
 	margin-top: 0;
-	font: 30px 'Bebas Neue';
+	font: 30px 'BebasNeueRegular';
 	color: #f98561;
 	margin-bottom: 12px;
 }
