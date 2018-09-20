@@ -179,7 +179,7 @@
 #block-welcome h1{
 	margin-top: 24px;
 	text-align: center;
-	font: 96px 'BebasNeueRegular';
+	font: 60px 'BebasNeueRegular';
 	color: #515862;
 	margin-bottom: 0;
 }
@@ -324,7 +324,7 @@
 #block-team .box4 h3{
 	margin-top: -28px;
 	text-align: center;
-	font: 32px 'BebasNeueRegular';
+	font: 20px 'BebasNeueRegular';
 	color: #2190c1;
 } 
 
